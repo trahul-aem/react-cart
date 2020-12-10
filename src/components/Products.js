@@ -12,13 +12,13 @@ function Products({addToCart}) {
         {
           name: 'Tesla Model y',
           cost: '$55,000',
-          image: 'https://www.cstatic-images.com/car-pictures/xl/usd00tss021a021001.png'
+          image: 'https://s.aolcdn.com/commerce/autodata/images/USD00TSS021A021001.jpg'
     
         },
         {
           name: 'Tesla Model X',
           cost: '$150,000',
-          image: 'https://95octane.com/wp-content/uploads/2020/10/2020_tesla_model_x_black_1.jpg'
+          image: 'https://m.media-amazon.com/images/I/71XM1HoKMAL._UY560_.jpg'
     
         },
         {
